@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritesh134340&label=Profile%20views&color=0e75b6&style=flat" alt="ritesh134340" /> </p>
 
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/17249211/191750155-38a778e2-c0d2-460e-b256-a4592b4a75d2.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://i.imgur.com/iXuL1HG.png" width="760px"/>
 
 - 🔭 I’m currently working on **Something new.**
 
