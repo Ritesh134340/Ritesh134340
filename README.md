@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritesh134340&label=Profile%20views&color=0e75b6&style=flat" alt="ritesh134340" /> </p>
 
 
-<img align="right" alt="GIF" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" width="600px"/>
+<img align="right" alt="GIF" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" width="550px"/>
 
 - 🔭 I’m currently working on **Something new.**
 
