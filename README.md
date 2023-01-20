@@ -19,7 +19,7 @@
 
 - 📫 How to reach me [Email](mailto:riteshkumar134340@gmail.com)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1kY_wIb3m12dG8qCaamZeiPqXhiq5SA9P/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1kY_wIb3m12dG8qCaamZeiPqXhiq5SA9P/view?usp=share_link)
 
 - ⚡ Fun fact **Extroverted-introvert**
 
